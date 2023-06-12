@@ -20,7 +20,7 @@ End the program.
 class Employee{
     String Name;
     int Year;
-    String Address;
+    String Address; 
     Employee(String nam,int years, String addr)
     {
         Name=nam;
